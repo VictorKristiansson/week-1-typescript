@@ -1,4 +1,4 @@
-// Excercise 1
+// Excercise 1 - Union Types
 
 /*
  Create a type called IDType that can be either a number OR a string. 
