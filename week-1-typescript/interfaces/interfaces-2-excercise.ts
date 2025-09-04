@@ -1,4 +1,4 @@
-// Excercise 1 - Interfaces
+// Excercise 2 - Interfaces
 
 /*
  Teacher with name and subject 
