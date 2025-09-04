@@ -10,4 +10,4 @@ const firstItem = <T>(array : T[]): T | undefined => {
 }
 
 console.log(firstItem([1 , 2 , 3 ]));
-console.log(firstItem(["Hello World!" , "Hi" , "Hello" ]));
+console.log(firstItem(["a", "b", "c"]));
